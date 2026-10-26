@@ -1,5 +1,12 @@
 PloegToolbox 0.1.0 beta
 
+Download for Mac
+https://github.com/teunvanderploeg/PloegToolbox/releases/latest/download/PloegToolbox-macOS-AppleSilicon.dmg
+
+Apple silicon. macOS 13.0 or later.
+Open the disk image and drag PloegToolbox to Applications.
+Other downloads and checksums: https://github.com/teunvanderploeg/PloegToolbox/releases/latest
+
 This is an early beta. Fixes and updates will follow.
 
 A real Rust desktop foundation for the Ploeg app family. It uses the approved
