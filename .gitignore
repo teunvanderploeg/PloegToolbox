@@ -1,0 +1,4 @@
+/target/
+/artifacts/
+/dist/
+.DS_Store
